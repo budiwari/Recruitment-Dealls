@@ -1,0 +1,19 @@
+{
+  "name": "dealls",
+  "version": "1.0.0",
+  "main": "Playwright.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
